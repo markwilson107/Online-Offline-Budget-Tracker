@@ -26,8 +26,7 @@ This application helps you track your spending, save it to a database, and displ
 
 ##### or
 
-Open deployed application:
-
+Open deployed application: https://budget-tracker-mark-wilson.herokuapp.com/
 
 ## Usage
 
@@ -55,4 +54,4 @@ You have the freedom to do as you like with this permissive software, as long as
 
 ## Application Image
 
- ![Image of Application]( https://github.com/markwilson107/Online-Offline-Budget-Tracker/blob/main/images/deployed-application.png)
+ ![Image of Application](https://github.com/markwilson107/Online-Offline-Budget-Tracker/blob/main/images/deployed-application.PNG)
