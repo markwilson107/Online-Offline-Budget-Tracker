@@ -54,4 +54,4 @@ You have the freedom to do as you like with this permissive software, as long as
 
 ## Application Image
 
- ![Image of Application](https://github.com/markwilson107/Online-Offline-Budget-Tracker/blob/main/images/deployed-application.PNG)
+ ![Image of Application](https://github.com/markwilson107/Online-Offline-Budget-Tracker/blob/main/images/deployed-application-image.png)
